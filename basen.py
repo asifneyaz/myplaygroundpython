@@ -7,5 +7,8 @@ print(var1bytes)
 decoded = var1bytes.decode('ascii')
 print(decoded)
 
-# var3 = var2.decode("ascii")
-# print(var3)
+# b'0123456789abcdefghijklmnoppqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+# b'MDEyMzQ1Njc4OWFiY2RlZmdoaWprbG1ub3BwcXJzdHV2d3h5ekFCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFla'
+# MDEyMzQ1Njc4OWFiY2RlZmdoaWprbG1ub3BwcXJzdHV2d3h5ekFCQ0RFRkdISUpLTE1OT1BRUlNUVVZXWFla
+#
+# Process finished with exit code 0
